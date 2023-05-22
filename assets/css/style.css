@@ -1348,7 +1348,7 @@ label {
 .slider-area {
 	position: relative;
 	padding: 100px 0 0 484px;
-	margin-bottom: 120px;
+	/* margin-bottom: 120px; */
 }
 .slider-shape {
 	position: absolute;
@@ -5216,7 +5216,7 @@ label {
 	background-position: center;
 }
 .footer-top {
-	padding: 115px 0 120px;
+	padding: 70px 0 120px;
 }
 .footer-widget {
 	margin-bottom: 40px;
