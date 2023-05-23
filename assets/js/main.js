@@ -13,6 +13,11 @@ $(window).on('load', function () {
 	mainSlider();
 	wowAnimation();
 	tg_title_animation();
+	$("#container1").twentytwenty(
+		{
+			no_overlay: true,
+		}
+	);
 });
 
 
